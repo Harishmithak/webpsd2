@@ -1,0 +1,32 @@
+  
+.div1 {
+    background-image: url('assests/images/bg.png');
+   background-size: 100%;
+}
+
+.heading-1{
+  margin-left:300px;
+  margin-top: 330px;
+padding-bottom: 5%;
+}
+
+.h1{
+    font-size: 80px;
+line-height: 100px;
+color: #aab33c;
+font-family: "00819";
+
+}
+.nav-link{
+    font-size: 16px;
+   
+    text-transform: uppercase;
+    color: #ffffff;
+ 
+    font-family: "Quicksand";
+    text-align: right;
+}
+.btn-btn{
+    background-color:  #aab33c;
+    color: #ffffff;
+}
