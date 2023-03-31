@@ -3,6 +3,20 @@
     background-image: url('assests/images/bg.png');
    background-size: 100%;
 }
+.nav-item1 a{
+    font-size: 16px;
+   
+    text-transform: uppercase;
+    color: #ffffff;
+ 
+    font-family: "Quicksand";
+    text-align: right;
+}
+
+.btn-btn{
+    background-color:  #aab33c;
+    color: #ffffff;
+}
 
 .heading-1{
   margin-left:300px;
@@ -16,17 +30,4 @@ line-height: 100px;
 color: #aab33c;
 font-family: "00819";
 
-}
-.nav-link{
-    font-size: 16px;
-   
-    text-transform: uppercase;
-    color: #ffffff;
- 
-    font-family: "Quicksand";
-    text-align: right;
-}
-.btn-btn{
-    background-color:  #aab33c;
-    color: #ffffff;
 }
