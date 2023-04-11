@@ -372,45 +372,4 @@ font-family: "Quicksand";
         }
         
         
-        /* Footer styling */
-        .footli{
-            text-decoration: none;
-            color: #404142;
-            
-        }
-        .fas{
-            color: #b0b43c;
-            
-        }
-        #foot{
-            background-image: url(images/footerbg.png);
-        
-        }
-        .ft{
-            font-size: 10px;
-            font-weight: 400;
-        }
-        .ftlbl{
-        font-size: 18px;
-        width: 500px;
-        text-transform: uppercase;
-        color: #404142;
-        font-weight: 700;
-        font-family: 'Quicksand', sans-serif;
-        padding: 10px;
-        }
-        .formimg{
-        width: 35px;
-        height: 35px;
-        margin-top: -4px;
-        }
-        .finput{
-            width: 150px;
-            height: 35px;
-            border: none;
-            
-        }
-        .footer{
-        background-color: #b0b43c;
-        
-        }
+       
